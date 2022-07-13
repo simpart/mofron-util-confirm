@@ -1,0 +1,23 @@
+{
+  "name": "mofron-util-confirm",
+  "version": "0.0.1",
+  "description": "conform util function for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-util-confirm.git"
+  },
+  "keywords": [
+    "mofron",
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-util-confirm/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-util-confirm#readme"
+}
